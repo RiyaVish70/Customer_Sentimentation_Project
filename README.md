@@ -23,7 +23,7 @@ Customer sentiment analysis based on voice transcript, chat transcript and email
 * Visualize the analysis results using charts, graphs, and visual representations to effectively communicate the findings.
 
 ## Methodology
-NLP is used to detect positive or negative sentiment in text. Used python for Data cleaning and Data preprocessing of the dataset. Created Visualizations and dashboard in tableau. Implemented Naive Bayes, Decision Tree and KNN classification models with 79% of accuracy.
+NLP is used to detect positive or negative sentiment in text. Used python for Data cleaning and Data preprocessing of the dataset. Implemented Naive Bayes, Decision Tree and KNN classification models with 79% of accuracy.
 
 * Data Collection: Gather voice transcripts, chat transcripts, and email transcripts from customers across different companies, covering a wide range of interactions and feedback.
 
