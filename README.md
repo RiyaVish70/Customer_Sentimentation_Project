@@ -3,7 +3,7 @@
 * Sentiment analysis (or opinion mining) is a natural language processing (NLP) technique used to determine whether data is positive, negative or neutral.
 * Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs.
 * Executed NLP techniques to analyze the transcripts and determine the sentiment expressed by customers towards different companies. Performed EDA on the dataset to identify key insights and patterns in customer sentiment.
-* Classified the sentiment as positive or negative. Implemented Naive Bayes, Decision Tree and KNN classification models with 79% of accuracy. Created Visualizations and dashboard in tableau. 
+* Classified the sentiment as positive or negative. Implemented Naive Bayes, Decision Tree and KNN classification models with 79% of accuracy.
 
 ## Types of Sentiment Analysis
 
